@@ -8,7 +8,7 @@ public class Elephant {
         this.a = a;
     }
 
-    public int wezA() {
+    public int wezWhateverA() {
         return a;
     }
 
